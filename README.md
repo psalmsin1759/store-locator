@@ -57,3 +57,7 @@ In your lib directory, create a new Dart file, e.g., locator_screen.dart. This f
 ### 5. Run the App
 
 Now, you can run your Flutter app using flutter run. You should see the Store Locator screen with Google Maps displaying the store locations obtained from your API.
+
+### Screenshot
+
+<img src="screenshot/Screenshot_1694107176.png" alt="Screenshot" />
