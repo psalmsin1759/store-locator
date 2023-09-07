@@ -16,7 +16,8 @@ class MyApp extends StatelessWidget {
       title: 'Store Locator',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(
+            seedColor: const Color.fromARGB(255, 133, 116, 164)),
         useMaterial3: true,
       ),
       home: const LocationScreen(),
